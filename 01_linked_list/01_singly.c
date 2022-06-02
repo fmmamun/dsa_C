@@ -11,7 +11,7 @@ struct node
 
 int  main()
 {
-    struct node * head, *newnode, *temp;
+    struct node *head, *newnode, *temp;
     head = 0;
     int choice;
     while (choice)
